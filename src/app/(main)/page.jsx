@@ -147,7 +147,7 @@ export default function Home() {
         </div>
       </div>
 
-      <div className="container py-20 text-white text-center bg-gradient-to-br from-neutral-700 to-zinc-900">
+      <div className="py-20 text-white text-center bg-gradient-to-br from-neutral-700 to-zinc-900">
         <div className="py-10">
           <h2 className="text-6xl font-thin">
             Jadilah Bagian <span className="font-medium">Dari Kami</span>
